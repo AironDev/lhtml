@@ -47,6 +47,7 @@ Section 1. Course Introduction
 =====================
 
 <details><summary> Click to Expand </summary>
+	
 ### 1.1. Welcome
 Welcome  to HTML5 Essentials. In this course we will take an in-depth look on HTML, will learn Syntax and Semantics of HTML. Will also focus on best practices to implement while writing and editing HTML. Will start by learning what is HTML, Basic HTML Document/Page structure, How to write and format page content, Creating Lists, Links, Tables and many more things.
 </details>
