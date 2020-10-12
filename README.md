@@ -45,6 +45,7 @@ Assignment
 
 Section 1. Course Introduction
 =====================
+
 <details><summary> Click to Expand </summary>
 ### 1.1. Welcome
 Welcome  to HTML5 Essentials. In this course we will take an in-depth look on HTML, will learn Syntax and Semantics of HTML. Will also focus on best practices to implement while writing and editing HTML. Will start by learning what is HTML, Basic HTML Document/Page structure, How to write and format page content, Creating Lists, Links, Tables and many more things.
@@ -52,6 +53,7 @@ Welcome  to HTML5 Essentials. In this course we will take an in-depth look on HT
 
 Section 2. Introducing HTML
 =====================
+
 <details><summary> Click to Expand </summary>
 ### 2.1. Importance
 #### 3 pillars / core Languages/technologies used for Frond End Web Design/Development
@@ -384,8 +386,10 @@ There are many features related to DTD, Tags, Elements, attributes, APIs introdu
 	</html>
 ```
 </details>
+
 Section 3. Basic Page Structure
 =====================
+
 <details><summary> Click to Expand </summary>
 ### 3.1. Explore
 Let's have a look and observe an HTML source code in the browser:
@@ -488,6 +492,7 @@ Tags are divided into different categories based on:
 	7. embedded content			: `<audio>, <canvas>, <embed>, <img>, <video>, <math>`
 	8. flow content					: `<address>, <article>, <aside>, <table>, <template>`
 </details>
+
 Section 4. Formatting Page Content
 =====================
 <details><summary> Click to Expand </summary>
