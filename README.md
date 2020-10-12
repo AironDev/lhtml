@@ -946,25 +946,25 @@ Create `index` Page
 
 Create `about` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/aboutpage.png)
 
 ------- 
 
 Create `contact` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+![ALT](./contactpage.png))
 
 ------- 
 
 Create `products` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/productspage.png)
 
 ------- 
 
 Create `services` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/servicespage.png)
 
 ------
 
