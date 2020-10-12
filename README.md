@@ -495,6 +495,7 @@ Tags are divided into different categories based on:
 
 Section 4. Formatting Page Content
 =====================
+
 <details><summary> Click to Expand </summary>
 ### 4.1. Format
 - HTML Formatting is a process of formatting text for better look and feel, visibility
@@ -590,6 +591,7 @@ Section 4. Formatting Page Content
 
 Section 5. Structuring Content
 =====================
+
 <details><summary> Click to Expand </summary>
 ### 5.1. Structure
 - HTML allows us to structure the document as per the meaning of the content
@@ -652,6 +654,7 @@ It's really up to you what exactly the elements involved represent, as long as t
 
 Section 6. Creating Lists
 =====================
+
 <details><summary> Click to Expand </summary>
 - HTML Lists are used to specify lists of information.
 - HTML List is an incredible/useful way to represent organized content
@@ -694,6 +697,7 @@ Section 6. Creating Lists
 
 Section 7. Creating Links
 =====================
+
 <details><summary> Click to Expand </summary>
 - A webpage can contain various links/hyperlinks that take you directly to other pages and even specific parts of a given page
 - Hyperlinks allow visitors to navigate between Web sites by clicking on words, phrases, and images.
@@ -746,6 +750,7 @@ in this scenario, "_help123.pdf" will be renamed with "html_help.pdf"
 
 Section 8. Working with Table
 =====================
+
 <details><summary> Click to Expand </summary>
 - The HTML tables allow arranging data like text, images, links, into rows and columns of cells
 - In HTML `<table>` tag is used structure data in tabular form
@@ -810,8 +815,10 @@ Section 8. Working with Table
 </table>
 ```
 </details>
+
 Section 9. Dealing with Forms
 =====================
+
 <details><summary> Click to Expand </summary>
 - HTML forms are a very powerful tool for interacting with users;
 - HTML Forms are required, when you want to collect some data from the site visitor
@@ -897,8 +904,10 @@ Section 9. Dealing with Forms
 </form>
 ```
 </details>
+
 Section 10. HTML Layout
 =====================
+
 <details><summary> Click to Expand </summary>
 - Web page layout is an essential part of creating well-formed, well-structured, semantically-rich websites
 - A well-designed, colorful, and neat HTML page helps to establish a good user experience
@@ -939,9 +948,10 @@ There are different ways to create multicolumn layouts. Each way/layout techniqu
 
 Section 11. What's Next Step?
 =====================
+
+<details><summary> Click to Expand </summary>
 Brilliant job! You have done it! Thank You for looking into HTML5 Essentials/Fundamentals. I hope now you have better understandings of how HTML5 works. To learn more about HTML5 specifications visit [Latest HTML5 specifications](https://www.w3.org/TR/html53/) and https://html.spec.whatwg.org/. Your next step could be Mastering HTML5 Advanced features or look into [designing & styling with CSS3 fundamentals](https://github.com/dinanathsj29/css3-fundamentals). Best of Luck! Happy Learning! 
-
-
+</details>
 
 # ASSIGNMENTS
 General Instructions
