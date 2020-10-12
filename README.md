@@ -27,13 +27,18 @@ Tutorial
 
 Assignment
 ==============
-- ### [General Instructions](#general-instructions)
-- ### [Create an INDEX Page](#create-index-page)
-	- ### [Navigations Links](#add-links)
-	- ### [Product Description](#add-product-description)
-	- ### [Feature List](#add-contact-form)
-	- ### [Pricing Table](#add-pricing-table)
-	- ### [Contact Form](#add-contact-form)
+-  [General Instructions](#general-instructions)
+-  [Create an `index.html` Page](#create-index-page)
+	- [Add Homepage Content](#add-links)
+-  [Create an `about.html` Page](#create-about-page)
+	- >use the following tags - p, headings, span, br, hr, a
+-  [Create an `contact.html` Page](#create-contact-page)
+	- > use the following tags - forms, a etc
+-  [Create an `products.html` Page](#create-products-page)
+	- > use the following tags - img, a table, headings, dl 
+-  [Create an `services.html` Page](#create-services-page)
+	- > use the following tags - img, a table, headings, ul, ol, 
+
 	
 
 
