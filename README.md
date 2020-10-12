@@ -46,7 +46,7 @@ Assignment
 Section 1. Course Introduction
 =====================
 ### 1.1. Welcome
-Hi All, I'm **`Dinanath Jayaswal, Senior UI/Web Developer and Adobe Certified Expert Professional`**, I wanna welcome you to HTML5 Essentials. In this course will take an in-depth look on HTML, will learn Syntax and Semantics of HTML. Will also focus on best practices to implement while writing and editing HTML. Will start by learning what is HTML, Basic HTML Document/Page structure, How to write and format page content, Creating Lists, Links, Tables and many more things.
+Welcome  to HTML5 Essentials. In this course we will take an in-depth look on HTML, will learn Syntax and Semantics of HTML. Will also focus on best practices to implement while writing and editing HTML. Will start by learning what is HTML, Basic HTML Document/Page structure, How to write and format page content, Creating Lists, Links, Tables and many more things.
 
 Section 2. Introducing HTML
 =====================
