@@ -946,13 +946,13 @@ Create `index` Page
 
 Create `about` Page
 ===========
-![ALT](./assignments/images/images/aboutpage.png)
+![ALT](./assignments/images/aboutpage.png)
 
 ------- 
 
 Create `contact` Page
 ===========
-![ALT](./assignments/images/contactpage.png))
+![ALT](./assignments/images/contactpage.png)
 
 ------- 
 
