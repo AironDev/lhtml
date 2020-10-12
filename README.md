@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="_examples-html5-essentials/assets/images/html5.png" alt="HTML5 Essentials logo" title="HTML5 Essentials" width="200" />
+    <img src="https://github.com/AironDev/lhtml/blob/main/images/html.jpg" alt="HTML5 Essentials logo" width="300" />
 </p>
 
 HTML5 Essentials
