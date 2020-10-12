@@ -30,13 +30,13 @@ Assignment
 -  [General Instructions](#general-instructions)
 -  [Create `index` Page](#create-index-page)
 	- >use the following tags - p, headings, table span, br, hr, a
--  [Create an `about.html` Page](#create-about-page)
+-  [Create an `about` Page](#create-about-page)
 	- >use the following tags - p, headings, table span, br, hr, a
--  [Create an `contact.html` Page](#create-contact-page)
+-  [Create an `contact` Page](#create-contact-page)
 	- > use the following tags - forms, table a etc
--  [Create an `products.html` Page](#create-products-page)
+-  [Create an `products` Page](#create-products-page)
 	- > use the following tags - img, table a table, headings, dl 
--  [Create an `services.html` Page](#create-services-page)
+-  [Create an `services` Page](#create-services-page)
 	- > use the following tags - img, a table, headings, ul, ol, 
 
 	
@@ -936,11 +936,33 @@ You will be required to do the following.
 
 -------
 
-
 Create `index` Page
 ===========
 
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+
+------- 
+
+Create `about` Page
+===========
+
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+
+------- 
+
+Create `contact` Page
+===========
+
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+
+Create `products` Page
+===========
+
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
 
 
-![ALT](img)
+Create `services` Page
+===========
+
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
 
