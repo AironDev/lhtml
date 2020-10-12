@@ -750,8 +750,6 @@ in this scenario, "_help123.pdf" will be renamed with "html_help.pdf"
 
 Section 8. Working with Table
 =====================
-
-<details><summary> Click to Expand </summary>
 - The HTML tables allow arranging data like text, images, links, into rows and columns of cells
 - In HTML `<table>` tag is used structure data in tabular form
 - HTML table tag display data in tabular form (row * column). There can be many columns in a row
@@ -814,7 +812,6 @@ Section 8. Working with Table
 
 </table>
 ```
-</details>
 
 Section 9. Dealing with Forms
 =====================
