@@ -931,6 +931,7 @@ You will be required to do the following.
 - Create the indicated page based on the design provided
 - Use the suggested HTML tags and every other tag that will be required
 - Create a sub directory (`PS: use your github username as folder name`) inside assignments folder.
+- Save the pages in the folder you created
 - Commit your solutions and make a push
 - Follow this [link](#) to learn basic GITHUB commands and workflow
 
