@@ -45,11 +45,14 @@ Assignment
 
 Section 1. Course Introduction
 =====================
+<details><summary> Click to Expand </summary>
 ### 1.1. Welcome
 Welcome  to HTML5 Essentials. In this course we will take an in-depth look on HTML, will learn Syntax and Semantics of HTML. Will also focus on best practices to implement while writing and editing HTML. Will start by learning what is HTML, Basic HTML Document/Page structure, How to write and format page content, Creating Lists, Links, Tables and many more things.
+</details>
 
 Section 2. Introducing HTML
 =====================
+<details><summary> Click to Expand </summary>
 ### 2.1. Importance
 #### 3 pillars / core Languages/technologies used for Frond End Web Design/Development
 1. **`HTML (HyperText Markup Language) - Markup language, Essential Page Structure/Content, Redable and convey structure to user, Text Layout Model, page Mark-up, Text, Tags, Data, details for pages, Images, Tables, Anchor Links, Forms`**
@@ -380,9 +383,10 @@ There are many features related to DTD, Tags, Elements, attributes, APIs introdu
 
 	</html>
 ```
-
+</details>
 Section 3. Basic Page Structure
 =====================
+<details><summary> Click to Expand </summary>
 ### 3.1. Explore
 Let's have a look and observe an HTML source code in the browser:
 1. Open any existing .html file in the browser, in our case open `structure.html`
@@ -483,9 +487,10 @@ Tags are divided into different categories based on:
 	6. heading content			: `<h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <hgroup>`
 	7. embedded content			: `<audio>, <canvas>, <embed>, <img>, <video>, <math>`
 	8. flow content					: `<address>, <article>, <aside>, <table>, <template>`
-
+</details>
 Section 4. Formatting Page Content
 =====================
+<details><summary> Click to Expand </summary>
 ### 4.1. Format
 - HTML Formatting is a process of formatting text for better look and feel, visibility
 - Formatting elements were designed to display special types of text without using CSS
@@ -576,9 +581,11 @@ Section 4. Formatting Page Content
 - HTML `<font>` tag is used to define the font style for the text contained within it
 - The font tag is having three attributes called `face, size, and color`
 - The `<font>` tag defines/specifies the font face, font size, and color of the text 
+</details>
 
 Section 5. Structuring Content
 =====================
+<details><summary> Click to Expand </summary>
 ### 5.1. Structure
 - HTML allows us to structure the document as per the meaning of the content
 - Div, Table tags are used to create structure, layout but its not semantic
@@ -636,9 +643,11 @@ It's really up to you what exactly the elements involved represent, as long as t
 - Use outliner utility: https://gsnedders.html5.org/outliner/
 - Text Editor like Brackets uses a `Document Outliner Plugin/extension` to show proper document outline/table of contents/topics/Indexing of page
 - Brackets -> View menu -> Show Document Outline
+</details>
 
 Section 6. Creating Lists
 =====================
+<details><summary> Click to Expand </summary>
 - HTML Lists are used to specify lists of information.
 - HTML List is an incredible/useful way to represent organized content
 
@@ -676,9 +685,11 @@ Section 6. Creating Lists
 - Description List or Definition List is the ideal way to present a glossary, list of terms, or another name/value list
 - A description list is a list of terms, with a description of each term
 - The `<dl>` tag defines the description list, the `<dt>` tag defines the term (name), and the `<dd>` tag describes each term
+</details>
 
 Section 7. Creating Links
 =====================
+<details><summary> Click to Expand </summary>
 - A webpage can contain various links/hyperlinks that take you directly to other pages and even specific parts of a given page
 - Hyperlinks allow visitors to navigate between Web sites by clicking on words, phrases, and images.
 
@@ -726,9 +737,11 @@ in this scenario, "_help123.pdf" will be renamed with "html_help.pdf"
 ### 7.4 fragment identifiers / anchor #links
 - #Anchors helps to jump to a specific section of current (within)/other linked URL/file
 - Need to Define and linked to the ID of the specific element
+</details>
 
 Section 8. Working with Table
 =====================
+<details><summary> Click to Expand </summary>
 - The HTML tables allow arranging data like text, images, links, into rows and columns of cells
 - In HTML `<table>` tag is used structure data in tabular form
 - HTML table tag display data in tabular form (row * column). There can be many columns in a row
@@ -791,9 +804,10 @@ Section 8. Working with Table
 
 </table>
 ```
-
+</details>
 Section 9. Dealing with Forms
 =====================
+<details><summary> Click to Expand </summary>
 - HTML forms are a very powerful tool for interacting with users;
 - HTML Forms are required, when you want to collect some data from the site visitor
 - HTML Forms are one of the main points of interaction between a user and a web site or application. They allow users to send data to the web site
@@ -877,9 +891,10 @@ Section 9. Dealing with Forms
 
 </form>
 ```
-
+</details>
 Section 10. HTML Layout
 =====================
+<details><summary> Click to Expand </summary>
 - Web page layout is an essential part of creating well-formed, well-structured, semantically-rich websites
 - A well-designed, colorful, and neat HTML page helps to establish a good user experience
 - Creating a website layout is the activity of positioning the various elements that make a web page in a well-structured manner and give an appealing look to the website
@@ -915,6 +930,7 @@ There are different ways to create multicolumn layouts. Each way/layout techniqu
 - The simplest and most popular way of creating layouts is using HTML `<table>` tag. These tables are arranged in columns and rows, so you can utilize these rows and columns in whatever way you like.
 - The `<table>` element was not designed to be a layout tool! Before introduction to Div tag, web designers/developers use to follow table based layout
 > **Note**: Do not use tables for your page layout! They will make code length, tedious and brings a mess into your code
+</details>
 
 Section 11. What's Next Step?
 =====================
