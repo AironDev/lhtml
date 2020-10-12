@@ -56,6 +56,7 @@ Section 2. Introducing HTML
 =====================
 
 <details><summary> Click to Expand </summary>
+
 ### 2.1. Importance
 #### 3 pillars / core Languages/technologies used for Frond End Web Design/Development
 1. **`HTML (HyperText Markup Language) - Markup language, Essential Page Structure/Content, Redable and convey structure to user, Text Layout Model, page Mark-up, Text, Tags, Data, details for pages, Images, Tables, Anchor Links, Forms`**
@@ -392,6 +393,7 @@ Section 3. Basic Page Structure
 =====================
 
 <details><summary> Click to Expand </summary>
+
 ### 3.1. Explore
 Let's have a look and observe an HTML source code in the browser:
 1. Open any existing .html file in the browser, in our case open `structure.html`
@@ -498,6 +500,7 @@ Section 4. Formatting Page Content
 =====================
 
 <details><summary> Click to Expand </summary>
+
 ### 4.1. Format
 - HTML Formatting is a process of formatting text for better look and feel, visibility
 - Formatting elements were designed to display special types of text without using CSS
@@ -594,6 +597,7 @@ Section 5. Structuring Content
 =====================
 
 <details><summary> Click to Expand </summary>
+
 ### 5.1. Structure
 - HTML allows us to structure the document as per the meaning of the content
 - Div, Table tags are used to create structure, layout but its not semantic
@@ -657,6 +661,7 @@ Section 6. Creating Lists
 =====================
 
 <details><summary> Click to Expand </summary>
+
 - HTML Lists are used to specify lists of information.
 - HTML List is an incredible/useful way to represent organized content
 
@@ -700,6 +705,7 @@ Section 7. Creating Links
 =====================
 
 <details><summary> Click to Expand </summary>
+
 - A webpage can contain various links/hyperlinks that take you directly to other pages and even specific parts of a given page
 - Hyperlinks allow visitors to navigate between Web sites by clicking on words, phrases, and images.
 
@@ -747,6 +753,7 @@ in this scenario, "_help123.pdf" will be renamed with "html_help.pdf"
 ### 7.4 fragment identifiers / anchor #links
 - #Anchors helps to jump to a specific section of current (within)/other linked URL/file
 - Need to Define and linked to the ID of the specific element
+
 </details>
 
 Section 8. Working with Table
@@ -818,6 +825,7 @@ Section 9. Dealing with Forms
 =====================
 
 <details><summary> Click to Expand </summary>
+
 - HTML forms are a very powerful tool for interacting with users;
 - HTML Forms are required, when you want to collect some data from the site visitor
 - HTML Forms are one of the main points of interaction between a user and a web site or application. They allow users to send data to the web site
@@ -907,6 +915,7 @@ Section 10. HTML Layout
 =====================
 
 <details><summary> Click to Expand </summary>
+
 - Web page layout is an essential part of creating well-formed, well-structured, semantically-rich websites
 - A well-designed, colorful, and neat HTML page helps to establish a good user experience
 - Creating a website layout is the activity of positioning the various elements that make a web page in a well-structured manner and give an appealing look to the website
@@ -948,6 +957,7 @@ Section 11. What's Next Step?
 =====================
 
 <details><summary> Click to Expand </summary>
+
 Brilliant job! You have done it! Thank You for looking into HTML5 Essentials/Fundamentals. I hope now you have better understandings of how HTML5 works. To learn more about HTML5 specifications visit [Latest HTML5 specifications](https://www.w3.org/TR/html53/) and https://html.spec.whatwg.org/. Your next step could be Mastering HTML5 Advanced features or look into [designing & styling with CSS3 fundamentals](https://github.com/dinanathsj29/css3-fundamentals). Best of Luck! Happy Learning! 
 </details>
 
