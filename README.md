@@ -29,13 +29,13 @@ Assignment
 ==============
 -  [General Instructions](#general-instructions)
 -  [Create an `index.html` Page](#create-index-page)
-	- [Add Homepage Content](#add-links)
+	- >use the following tags - p, headings, table span, br, hr, a
 -  [Create an `about.html` Page](#create-about-page)
-	- >use the following tags - p, headings, span, br, hr, a
+	- >use the following tags - p, headings, table span, br, hr, a
 -  [Create an `contact.html` Page](#create-contact-page)
-	- > use the following tags - forms, a etc
+	- > use the following tags - forms, table a etc
 -  [Create an `products.html` Page](#create-products-page)
-	- > use the following tags - img, a table, headings, dl 
+	- > use the following tags - img, table a table, headings, dl 
 -  [Create an `services.html` Page](#create-services-page)
 	- > use the following tags - img, a table, headings, ul, ol, 
 
@@ -919,3 +919,21 @@ There are different ways to create multicolumn layouts. Each way/layout techniqu
 Section 11. What's Next Step?
 =====================
 Brilliant job! You have done it! Thank You for looking into HTML5 Essentials/Fundamentals. I hope now you have better understandings of how HTML5 works. To learn more about HTML5 specifications visit [Latest HTML5 specifications](https://www.w3.org/TR/html53/) and https://html.spec.whatwg.org/. Your next step could be Mastering HTML5 Advanced features or look into [designing & styling with CSS3 fundamentals](https://github.com/dinanathsj29/css3-fundamentals). Best of Luck! Happy Learning! 
+
+
+
+# ASSIGNMENTS
+General Instructions
+================
+The assignments is designed to give you a hands on practical experience.
+Since this is a strictly HTML introductory class, we will do things the old HTML way, we will use table for layouts. obviosly this is a terrible idea but as I mentioned earlier, it is assumed that you will equally go a through a corressponding CSS and JS course; where you will learn a more better way to structure and style web pages.
+You will be required to do the following.
+- Create the indicated page based on the design provided
+- Use the suggested HTML tags and every other tag that will be required
+- Create a sub directory (`PS: use your github username as folder name`) inside assignments folder.
+- Commit your solutions and make a push
+- Follow this [link](#) to learn basic GITHUB commands and workflow
+---
+Create an `index.html` Page
+![ALT](img)
+
