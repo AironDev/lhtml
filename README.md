@@ -940,31 +940,31 @@ You will be required to do the following.
 Create `index` Page
 ===========
 
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
+![ALT](./assignments/images/indexlayout.png)
 
 ------- 
 
 Create `about` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/aboutpage.png)
+![ALT](./assignments/images/images/aboutpage.png)
 
 ------- 
 
 Create `contact` Page
 ===========
-![ALT](./contactpage.png))
+![ALT](./assignments/images/contactpage.png))
 
 ------- 
 
 Create `products` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/productspage.png)
+![ALT](./assignments/images/productspage.png)
 
 ------- 
 
 Create `services` Page
 ===========
-![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/servicespage.png)
+![ALT](./assignments/images/servicespage.png)
 
 ------
 
