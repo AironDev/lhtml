@@ -945,9 +945,7 @@ Create `index` Page
 
 Create `about` Page
 ===========
-<p align="center">
-    <img src="https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png" alt="HTML5 Essentials logo" width="600" />
-</p>
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
 
 ------- 
 
@@ -959,14 +957,13 @@ Create `contact` Page
 
 Create `products` Page
 ===========
-<p align="center">
-    <img src="https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png" alt="HTML5 Essentials logo" width="600" />
-</p>
+![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
 
--------
+------- 
 
 Create `services` Page
 ===========
 ![ALT](https://github.com/AironDev/lhtml/blob/main/assignments/images/indexlayout.png)
-------- 
+
+------
 
