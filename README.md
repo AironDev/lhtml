@@ -28,7 +28,7 @@ Tutorial
 Assignment
 ==============
 -  [General Instructions](#general-instructions)
--  [Create an `index.html` Page](#create-index-page)
+-  [Create `index` Page](#create-index-page)
 	- >use the following tags - p, headings, table span, br, hr, a
 -  [Create an `about.html` Page](#create-about-page)
 	- >use the following tags - p, headings, table span, br, hr, a
@@ -933,7 +933,14 @@ You will be required to do the following.
 - Create a sub directory (`PS: use your github username as folder name`) inside assignments folder.
 - Commit your solutions and make a push
 - Follow this [link](#) to learn basic GITHUB commands and workflow
----
-Create an `index.html` Page
+
+-------
+
+
+Create `index` Page
+===========
+
+
+
 ![ALT](img)
 
