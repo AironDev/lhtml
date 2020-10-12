@@ -9,7 +9,7 @@ HTML is the language which powers the web. With HTML you can create your own Web
 ### Prerequisites for current course / What you need to know
 There are no prerequisites as such for current course/lessons. Its an added advantage if you know basic concepts like Web, Internet, Web Page, url, images etc. Its advisable to view [Web Design Development Foundations-Web Technology Fundamentals](https://github.com/dinanathsj29/web-design-development-fundamentals) before dive deeper with HTML5 content.
 
-Topics include
+Tutorial
 =====================
 1. [Course Introduction](#section-1-course-introduction)
 2. [Introducing HTML](#section-2-introducing-html)
@@ -24,6 +24,19 @@ Topics include
 9. [Dealing with Forms](#section-9-dealing-with-forms)
 10. [HTML Layout](#section-10-html-layout)
 11. [Whats Next Step?](#section-11-whats-next-step)
+
+Assignment
+==============
+- ### [General Instructions](#general-instructions)
+- ### [Create an INDEX Page](#create-index-page)
+	- ### [Navigations Links](#add-links)
+	- ### [Product Description](#add-product-description)
+	- ### [Feature List](#add-contact-form)
+	- ### [Pricing Table](#add-pricing-table)
+	- ### [Contact Form](#add-contact-form)
+	
+
+
 
 Section 1. Course Introduction
 =====================
